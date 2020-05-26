@@ -61,7 +61,7 @@ header.site-title{
 }
 
 .navbar-nav .nav-link{
-    font-size: 0.9em;
+    font-size: 1em;
     color: var(--light-gray)!important;
 }
 
@@ -319,15 +319,17 @@ footer .col-md-4 small{
 }
 
 
+/*Collections*/
+
 .gallery{
-    margin: 10px 50px;
+    margin: 10px 5px;
 
 }
 
 .gallery img{
     transition: 1s;
     padding: 15px;
-    width: 440px;
+    width: 350px;
 }
 
 .gallery img: hover{
